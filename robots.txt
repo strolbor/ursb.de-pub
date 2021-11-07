@@ -1,6 +1,5 @@
 User-Agent: *
 Disallow: /sites
 Disallow: /bootstrap
-Disallow: /imprint.html
 Disallow: /?id=imprint
 Disallow: /?id=policy
